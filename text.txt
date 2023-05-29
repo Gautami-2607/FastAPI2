@@ -1,0 +1,6 @@
+Created a docker-compose file with 2 services
+We brought  up docker-compose up and saw that 2 services are running
+Write username and password from pdadmin of docker-compose
+Then connect to a new server
+
+We use docker-compose up to invoke image.
